@@ -38,20 +38,25 @@ mini C 언어에 대한 어휘 분석기 프로그램입니다.
 
 # 프로젝트에 관한 설명
 
-## keyword에 해당되는 것
+### keyword에 해당되는 것
 
 const, else, if, int, return, void, while, or - ( 7개 )
 
-## Symbol에 해당되는 것
+### Symbol에 해당되는 것
 
 +, +=, ++, -, -=, --, \*, ... , >, >=, ==, !=, <, <=, ||, &&, {, } 등
 
-## number에 해당되는 것
+### number에 해당되는 것
 
 숫자
 
-## Variable에 해당되는 것
+### Variable에 해당되는 것
 
 (keyword, symbol, number이 아닌 것 중에서)<br/>
 변수명 등 문자열
-<br/>
+<br/><br/>
+
+# 참고문헌
+
+오세만,『컴파일러 입문』, 정익사(2010), 
+
